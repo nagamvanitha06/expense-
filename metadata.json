@@ -1,0 +1,8 @@
+{
+  "name": "Remix Expense Tracker",
+  "description": "Smart, intuitive Expense & Budget Tracker with Voice Logging, 3-Language Support (English, Hindi, Telugu), analytics, categories, and shopping budget list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
